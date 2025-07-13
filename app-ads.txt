@@ -1,0 +1,2 @@
+# App-ads.txt for DH Animation
+yandex.com, 16242454, DIRECT
